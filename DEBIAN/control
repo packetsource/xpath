@@ -1,0 +1,9 @@
+Package: xpath
+Version: 1.0-1
+Section: base
+Priority: optional
+Architecture: amd64
+Depends: libxml2 (>= 2.9.0)
+Maintainer: Adam Chappell <adam.chappell@gmail.com>
+Description: XML Xpath Search
+ Perform XPath expression matching on XML data
